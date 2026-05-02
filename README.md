@@ -1,51 +1,51 @@
 🎬 Movies Data Analysis Dashboard - Power BI
 -------------------------------------------------------------------------------------------------------------------------------------------
 📌 Project Overview
+-------------------------------------------------------------------------------------------------------------------------------------------
+• This project is an interactive Movies Data Analysis Dashboard built using Power BI.
 
-This project is an interactive Movies Data Analysis Dashboard built using Power BI.
+• It provides insights into movie performance, revenue trends, ratings, and audience behavior using a large-scale dataset (1M+ records).
 
-It provides insights into movie performance, revenue trends, ratings, and audience behavior using a large-scale dataset (1M+ records).
-
-Due to large file size, dataset and dashboard are hosted externally.
+• Due to large file size, dataset and dashboard are hosted externally.
 ___________________________________________________________________________________________________________________________________________
 🎯 Objectives
+-------------------------------------------------------------------------------------------------------------------------------------------
+• Analyze overall movie revenue performance
 
-Analyze overall movie revenue performance
+• Identify top-performing movies
 
-Identify top-performing movies
+• Understand ratings and audience engagement
 
-Understand ratings and audience engagement
+• Track trends over years
 
-Track trends over years
-
-Explore genre and country-wise performance
-
+• Explore genre and country-wise performance
+___________________________________________________________________________________________________________________________________________
 📂 Dataset Features
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 The dataset includes:
 
-Movie Title
+• Movie Title
 
-Genre
+• Genre
 
-Release Date & Year
+• Release Date & Year
 
-Country
+• Country
 
-Budget
+• Budget
 
-US & Global Box Office Revenue
+• US & Global Box Office Revenue
 
-Opening Day & Weekly Sales
+• Opening Day & Weekly Sales
 
-IMDb Rating & Rotten Tomatoes Score
+• IMDb Rating & Rotten Tomatoes Score
 
-Votes (IMDb & RT)
+• Votes (IMDb & RT)
 
-Director & Lead Actor
-
+• Director & Lead Actor
+___________________________________________________________________________________________________________________________________________
 📊 Dashboard Insights
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 Key insights covered:
 
 🎬 Top & Bottom Performing Movies
@@ -59,40 +59,41 @@ Key insights covered:
 ⭐ Ratings & Popularity Analysis
 
 📈 Year-wise Release Trends
-
+___________________________________________________________________________________________________________________________________________
 🛠️ Tools & Technologies Used
+-------------------------------------------------------------------------------------------------------------------------------------------
+• Power BI
 
-Power BI
+• Power Query (Data Cleaning & Transformation)
 
-Power Query (Data Cleaning & Transformation)
-
-DAX (Data Analysis Expressions)
-
+• DAX (Data Analysis Expressions)
+___________________________________________________________________________________________________________________________________________
 🚀 Features
+-------------------------------------------------------------------------------------------------------------------------------------------
+• Interactive slicers and filters
 
-Interactive slicers and filters
+• Dynamic visuals and charts
 
-Dynamic visuals and charts
+• Clean and user-friendly dashboard
 
-Clean and user-friendly dashboard
-
-Drill-down insights
-
+• Drill-down insights
+___________________________________________________________________________________________________________________________________________
 📸 Dashboard Preview
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 (Add screenshots here)
-
+___________________________________________________________________________________________________________________________________________
 📁 Project File
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 Due to GitHub file size limitations, the Power BI file is hosted externally:
 
 🔗 Download Power BI File:
 (Add your Google Drive link here)
-
+___________________________________________________________________________________________________________________________________________
 👤 Author
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 POOJA KAYAL
-
+___________________________________________________________________________________________________________________________________________
 ⭐ If you like this project
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 Give it a ⭐ on GitHub!
+___________________________________________________________________________________________________________________________________________
